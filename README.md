@@ -1,7 +1,5 @@
 # E-Commerce-Fulfillment-Database-Project
 
-# E-Commerce Database System Project
-
 ## Overview
 
 This project involves the design and implementation of a database system tailored for an e-commerce platform. The documentation includes a comprehensive analysis of the database entities, their relationships, business rules, entity-relationship diagrams, stored procedures for database operations, and strategies for query optimization.
